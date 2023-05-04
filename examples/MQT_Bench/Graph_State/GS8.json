@@ -1,0 +1,7 @@
+{
+  "filename": "GS8",
+"init_state": "zero",
+"max_gates": 18,
+"NGEN" : 40,
+"N": 40
+}

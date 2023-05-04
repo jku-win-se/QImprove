@@ -1,0 +1,6 @@
+qiskit
+deap
+pandas
+numpy
+click
+pymoo

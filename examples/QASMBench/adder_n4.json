@@ -1,0 +1,6 @@
+{
+  "filename": "adder_n4",
+  "max_gates": 25,
+"NGEN" : 40,
+"N": 40
+}

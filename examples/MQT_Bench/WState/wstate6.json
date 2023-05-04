@@ -1,0 +1,7 @@
+{
+  "filename": "WSTATE6",
+"init_state": "zero",
+"max_gates": 23,
+"NGEN" : 40,
+"N": 40
+}

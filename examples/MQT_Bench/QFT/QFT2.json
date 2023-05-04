@@ -1,0 +1,6 @@
+{
+  "filename": "QFT2",
+"max_gates": 6,
+"NGEN" : 40,
+"N": 40
+}

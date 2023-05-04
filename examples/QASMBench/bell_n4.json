@@ -1,0 +1,7 @@
+{
+  "filename": "bell_n4",
+  "max_gates": 36,
+"init_state": "zero",
+"NGEN" : 40,
+"N": 40
+}

@@ -1,0 +1,7 @@
+{
+  "filename": "QSE2_5",
+"max_gates": 19,
+"init_pop": 20,
+"NGEN" : 40,
+"N": 40
+}

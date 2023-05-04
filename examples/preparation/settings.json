@@ -1,0 +1,10 @@
+{
+  "filename": "GHZ3",
+  "max_gates": 12,
+"init_state": "zero",
+"weights_gates": [1,1,1,1.0,1,1.0,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1],
+"NGEN" : 40,
+"N": 40,
+"init_pop":20,
+"opt_within": ["Q2"]
+}

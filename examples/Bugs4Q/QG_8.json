@@ -1,0 +1,8 @@
+{
+  "filename": "QG_8",
+"init_state": "zero",
+  "max_gates": 4,
+"NGEN" : 40,
+"N": 40,
+"init_pop": 20
+}

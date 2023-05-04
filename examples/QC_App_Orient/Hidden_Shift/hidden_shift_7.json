@@ -1,0 +1,6 @@
+{
+"init_state": "zero",
+  "max_gates": 34,
+"NGEN" : 40,
+"N": 40
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "QSO_5",
+  "max_gates": 19,
+"NGEN" : 40,
+"init_state": "zero",
+"N": 40,
+"init_pop":20
+}

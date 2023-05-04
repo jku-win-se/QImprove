@@ -1,0 +1,8 @@
+{
+  "filename": "QSE_3",
+  "max_gates": 49,
+"init_state": "zero",
+"NGEN" : 40,
+"N": 40,
+"init_pop":20
+}

@@ -1,0 +1,7 @@
+{
+  "filename": "GS6",
+"init_state": "zero",
+"max_gates": 14,
+"NGEN" : 40,
+"N": 40
+}
