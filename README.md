@@ -9,6 +9,9 @@ and on [pymoo](https://pymoo.org/), which we used to compute IGD and HyperVolume
 
 * [`README.md`](README.md) this file.
 
+### Supporting Material
+* [`evaluation/supporting-material.pdf`](evaluation/supporting-material.pdf) A file containg data tables and supplementary data, which we could not fit into the paper. 
+
 ### Files and folders required to run experiments
 * [`run_experiment.py`](run_experiment.py) entry point of a search run. Use via 
 ```
